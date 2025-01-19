@@ -40,7 +40,7 @@
 
         .text-center {
             text-align: center;
-            color: #0056b3;
+            color: #708090;
             font-style: bold;
         }
 
@@ -97,7 +97,7 @@
 
         /* Call to Action Section */
         .cta-section {
-            background-color: rgb(60, 179, 113);            ;
+            background-color: #ef9227;;            ;
             color: white;
             padding: 30px 0;
         }
@@ -145,7 +145,7 @@
 
         /* Process Section */
         .process-section {
-            background-color: #007BFF;
+            background-color: #ef9227;;
          
             padding: 40px 0;
             color: #000;
@@ -200,7 +200,7 @@
 
         /* News Section */
         .news-section {
-            background-color: #007BFF;
+            background-color: #ef9227;
             color: white;
             padding: 40px 0;
         }
@@ -236,7 +236,7 @@
 
         /* Footer Section */
         .footer {
-            background-color: rgb(60, 179, 113);            ;
+            background-color: #ef9227;            ;
             padding: 20px 0;
             color: #ffffff;
         }
